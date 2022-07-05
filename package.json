@@ -1,0 +1,19 @@
+{
+  "name": "auth-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annamar26/auth-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annamar26/auth-library/issues"
+  },
+  "homepage": "https://github.com/annamar26/auth-library#readme"
+}
